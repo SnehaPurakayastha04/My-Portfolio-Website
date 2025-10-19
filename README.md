@@ -6,29 +6,29 @@ This is my personal Portfolio Website, built using HTML, CSS, and JavaScript, sh
 
 ## Features
 
-About Me Section: Introduction and personal information.
+- About Me Section: Introduction and personal information.
 
-Projects Section: Showcases my work with descriptions and links.
+- Projects Section: Showcases my work with descriptions and links.
 
-Skills Section: Showcases my technical and soft skills.
+- Skills Section: Showcases my technical and soft skills.
 
-Certifications Section: Displays completed courses and certifications.
+- Certifications Section: Displays completed courses and certifications.
 
-Resume Download: Option to download my resume in PDF format.
+- Resume Download: Option to download my resume in PDF format.
 
-Contact Form: Users can reach out via email form (or via mailto link).
+- Contact Form: Users can reach out via email form (or via mailto link).
 
-Navigation Bar: Smooth scrolling to sections.
+- Navigation Bar: Smooth scrolling to sections.
 
-Interactive Elements: Buttons, hover effects, and animations using CSS and JavaScript.
+- Interactive Elements: Buttons, hover effects, and animations using CSS and JavaScript.
 
 ## Technologies Used
 
-HTML5 – Structure and content
+- HTML5 – Structure and content
 
-CSS3 – Styling, animations, and responsive layout
+- CSS3 – Styling, animations, and responsive layout
 
-JavaScript – Interactivity, form validation, dynamic content
+- JavaScript – Interactivity, form validation, dynamic content
 
 ## Deployment
 
@@ -39,7 +39,7 @@ https://snehapurakayastha04.github.io/My-Portfolio-Website/
 
 Clone the repository:
 
-git clone https://github.com/yourusername/portfolio-website.git
+git clone https://github.com/SnehaPurakayastha04/My-Portfolio-Website.git
 
 
 Open index.html in your preferred browser.
